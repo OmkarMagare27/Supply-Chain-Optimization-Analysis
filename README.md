@@ -1,6 +1,10 @@
 Dashboard: https://app.powerbi.com/groups/me/reports/a00f6e66-a457-4ebf-8a4b-a0f7860570b3?experience=power-bi
 Dashboard Screenshot: 
-![image](https://github.com/user-attachments/assets/83a606df-14ac-4b3d-9ce5-4c42245d7057)
+![image](https://github.com/user-attachments/assets/7678d7f4-aff3-42fc-9063-c0de4c030c18)
+![image](https://github.com/user-attachments/assets/6fefad0d-0a70-4089-a331-18396489c5c1)
+![image](https://github.com/user-attachments/assets/bc00f8c5-b4e5-4c67-ab2b-2633f0d206e6)
+
+
 
 
 ## Supply Chain Analysis Project
